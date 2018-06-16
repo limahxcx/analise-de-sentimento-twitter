@@ -8,7 +8,6 @@ output:
 ---
 ## Analise de sentimento baseado em Tweets
 Análise de sentimento desenvolvido em [R Markdown](http://rmarkdown.rstudio.com) Notebook.
-
 Neste projeto, foi realizado a análise de tweets sobre a cooperativa de crédito Sicredi. O Sicredi é uma instituição financeira cooperativa, além de ser referência internacional pelo modelo de atuação, com cerca de 1600 agências espalhadas pelo Brasil. Para conhecer mais sobre a empresa, clique [aqui.](https://www.sicredi.com.br/html/conheca-o-sicredi/quem-somos/?utm_source=menu_topo&utm_medium=topo_site&utm_campaign=quem_somos)
 Este é um projeto particular utilizando dados públicos e não reflete qualquer opnião pessoal sobre a instituição.
 No projeto, utilizamos a linguagem R versão 3.5.0. Foram utilizadas várias bibliotecas descritas no decorrer o projeto, e como menciona o título do projeto, foi utilizado a rede social Twitter como base na análise.
